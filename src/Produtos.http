@@ -1,0 +1,53 @@
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Almofada Doutor Estranho", "descricao": "Almofada média com capa disponível em 3 cores.", "imagem": "https://i.pinimg.com/564x/31/c2/bd/31c2bd2902d41e44aca63fc7455bd6a3.jpg", "preco": "R$39,90"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Caneca Groot", "descricao": "Plástico resistente com detalhes de qualidade.", "imagem": "https://i.pinimg.com/564x/ed/a9/6e/eda96eb5f4dea73fd98a24bfcb6a9ab6.jpg", "preco": "R$29,99"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Moletom WandaVision", "descricao": "Feito de algodão com 2 opções de estampas disponíveis.", "imagem": "https://i.pinimg.com/564x/40/e7/be/40e7be0b858f7fb9976b885c9e58b002.jpg", "preco": "R$44,99"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Colar Reator Homem de Ferro", "descricao": "Tamanho pequeno, abre para colocação de foto.", "imagem": "https://i.pinimg.com/564x/d5/8b/d7/d58bd76fffdcba9bca3221968219f147.jpg", "preco": "R$21,99"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Funko POP! Cavaleiro da Lua", "descricao": "Boneco colecionável exclusivo que brilha no escuro", "imagem": "https://static2.srcdn.com/wordpress/wp-content/uploads/2022/04/Screen-Shot-2022-04-03-at-12.35.45-PM.png", "preco": "R$101,99"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Pulseira Jóias do Infinito", "descricao": "Peça ajustável de ouro com pedras cristalizadas.", "imagem": "https://ae01.alicdn.com/kf/H547481581e874293bd178edfca4715ae1.jpg?width=800&height=800&hash=1600", "preco": "R$25,99"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Tênis Jordan Homem-Aranha", "descricao": "Calçado confortável de cano alto com ajuste de cadarço e cabedal flexível", "imagem": "https://i.pinimg.com/564x/ae/75/80/ae7580072b4b6998775482b91c33c805.jpg", "preco": "R$209,99"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Moletom Soldado Invernal", "descricao": "Com capuz e tecido forrado por dentro, é ótimo para o inverno.", "imagem": "https://i.pinimg.com/564x/48/43/d2/4843d219951566ee167a6c8fdd658caf.jpg", "preco": "R$55,90"}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{"loja": "Infinity Store", "nome": "Jaqueta Jeans Vingadores", "descricao": "Pintada à mão com cores violeta e vermelho em destaque.", "imagem": "https://i.pinimg.com/564x/bc/59/48/bc59489ed5ea1e7f420c0751535c623c.jpg", "preco": "R$69,80"}
+
